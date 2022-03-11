@@ -34,9 +34,4 @@ MERN stack developer, curious and motivated to explore amazing technologies.
 <a href="http://www.github.com/kartikp36"><img src="https://activity-graph.herokuapp.com/graph?username=kartikp36&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/kartikp36" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikp36&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/kartikp36/introduction-to-CS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kartikp36&repo=introduction-to-CS&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kartikp36/fast-feedback" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kartikp36&repo=fast-feedback&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br />
+<br /><br />
