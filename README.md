@@ -3,7 +3,7 @@
 
 MERN stack developer, curious and motivated to explore amazing technologies.
 
-* 🌐  See my portfolio at [https://kartik-p-patel.vercel.app/](http://:kartik-p-patel.vercel.app/)
+* 🌐  See my portfolio at https://kartik-p-patel.vercel.app/
 * ✉️  You can contact me at [kartikp2002@gmail.com](mailto:kartikp2002@gmail.com)
 
 ### Skills
