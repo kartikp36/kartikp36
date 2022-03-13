@@ -11,7 +11,7 @@ MERN stack developer, curious and motivated to explore amazing technologies.
 <div width="50%" align="left">
 <a href="https://github.com/kartikp36/fast-feedback" align="right"><img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/pin/?username=kartikp36&repo=fast-feedback&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><br/>
 
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="NextJs" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" height="36" alt="Firebase" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4" width="36" height="36" alt="Chakra UI" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="6%" height="6%" alt="NextJs" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="6%" height="6%" alt="Firebase" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4" width="6%" height="6%" alt="Chakra UI" /></a>
 
 </div></br><br/>
 
