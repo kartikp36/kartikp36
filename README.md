@@ -3,7 +3,7 @@
 
 MERN stack developer, curious and motivated to explore amazing technologies.
 
-- 🌐  See my portfolio at https://kartik-p-patel.vercel.app/
+- 🌐  See my portfolio at https://www.patelkartik.me/
 - ✉️  You can contact me at [kartikp2002@gmail.com](mailto:kartikp2002@gmail.com)
 
 ### Skills
@@ -59,7 +59,5 @@ MERN stack developer, curious and motivated to explore amazing technologies.
 <a href="http://www.github.com/kartikp36"><img src="https://github-readme-stats.vercel.app/api?username=kartikp36&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="kartikp36's GitHub stats" /></a>
 
 <a href="http://www.github.com/kartikp36"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikp36&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/kartikp36"><img src="https://activity-graph.herokuapp.com/graph?username=kartikp36&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <br /><br />
