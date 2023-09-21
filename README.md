@@ -1,4 +1,4 @@
-<h1 align="center">Namaste!   I'm Kartik Patel </h1>
+<h1 align="center"><a href="https://www.patelkartik.me" target="_blank" rel="noreferrer">Namaste!   I'm Kartik Patel </a></h1>
 <div align="right">
   <a href="https://www.patelkartik.me/resume.pdf" target="_blank" rel="noreferrer">
       Resume 📎
