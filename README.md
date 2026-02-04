@@ -1,14 +1,14 @@
-<h1 align="center"><a href="https://www.patelkartik.me" target="_blank" rel="noreferrer">Namaste!   I'm Kartik Patel </a></h1>
-<div align="right">
+<h1 align="center"><a href="https://kartikp36.in/" target="_blank" rel="noreferrer">Namaste!   I'm Kartik Patel </a></h1>
+<!-- <div align="right">
   <a href="https://www.patelkartik.me/resume.pdf" target="_blank" rel="noreferrer">
       Resume 📎
   </a>
-</div>
+</div> -->
 
 Web development is not just my profession, it's my superpower! And like Peter Parker, I use it for good.
 
 > **Think of me as your friendly neighborhood web developer :)** 🦸
-- 🌐  See my portfolio at [patelkartik.me](https://www.patelkartik.me/)
+- 🌐  See my portfolio at [kartikp36.in](https://kartikp36.in/)
 - ✉️  Feel free to contact me at [mail](mailto:kartikp2002@gmail.com)
 
 
